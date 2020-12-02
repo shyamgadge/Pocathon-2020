@@ -1,0 +1,101 @@
+WEBVTT
+
+NOTE duration:"00:01:11.1700000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.886660695075989
+
+4cea7054-a7fc-4168-9755-ed34366c45b7
+00:00:02.170 --> 00:00:09.370
+Hi Varun,
+how
+
+NOTE Confidence: 0.886660695075989
+
+de52beb9-8c63-4db7-a4ff-6e4846c09934
+00:00:09.370 --> 00:00:12.970
+are
+
+NOTE Confidence: 0.808862686157227
+
+f6d2cc2b-d4a2-4f53-af3a-6371d1ba783f
+00:00:12.970 --> 00:00:20.040
+you?
+Hi Ashish, I'm good. How are you
+
+NOTE Confidence: 0.808862686157227
+
+6e23e867-7930-4e5e-92fa-a7e1efa86077
+00:00:20.040 --> 00:00:25.100
+doing? I'm good as well. I
+would like to know about
+
+NOTE Confidence: 0.808862686157227
+
+4f2eff71-9c1b-4847-bf1b-c076380fb571
+00:00:25.100 --> 00:00:26.480
+logging functionality.
+Sure.
+
+NOTE Confidence: 0.904821336269379
+
+365c11f3-7785-488f-83ee-8f130dc7a76c
+00:00:27.860 --> 00:00:29.930
+Let's get started.
+
+NOTE Confidence: 0.889338135719299
+
+d8803cae-20a5-4501-8767-5c5880a2b3e3
+00:00:30.540 --> 00:00:34.348
+There are four major
+requirements we're looking at
+
+NOTE Confidence: 0.889338135719299
+
+c66d3d3f-a13e-4ed2-a313-8d993f5f3890
+00:00:34.348 --> 00:00:38.632
+which are, user can access the
+application with valid
+
+NOTE Confidence: 0.842695534229279
+
+c57f3f7f-7191-4d7c-81b1-2464237e6aff
+00:00:38.632 --> 00:00:43.478
+credentials. Active Directory
+can be used to make this login
+
+NOTE Confidence: 0.853956282138824
+
+d47f53d3-73f4-4bd9-9b52-33b07045038b
+00:00:43.478 --> 00:00:48.223
+functionality happen. User can
+reset the password on forgot
+
+NOTE Confidence: 0.853956282138824
+
+04d07968-3085-43ba-b851-fe8f6bbfa71d
+00:00:48.223 --> 00:00:53.052
+password option. New users can
+sign up by entering details on
+
+NOTE Confidence: 0.853956282138824
+
+583b47c3-533c-4b3f-b31b-65514c58da70
+00:00:53.052 --> 00:00:54.369
+sign up page.
+
+NOTE Confidence: 0.886341631412506
+
+1701ddda-bf89-4e3b-99ef-24c0956bab09
+00:00:55.710 --> 00:00:59.730
+Make sense, I will analyze and
+document it. Thank you.
+
+NOTE Confidence: 0.903446674346924
+
+4ebe1248-5b5c-4390-9833-07410b54d355
+00:01:00.270 --> 00:01:04.890
+Sure, please let me know if you
+have any further questions.
+

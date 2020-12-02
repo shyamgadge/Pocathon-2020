@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <form method="post" enctype="multipart/form-data" asp-controller="Transcript" asp-action="Index">
+        <table>
+            <tr>
+                <td>URL: </td>
+                <td><input type="text" id="txtUrl" name="urlName" /></td>
+            </tr>
+            <tr>
+                <td>Video Id: </td>
+                <td><input type="text" id="txtvideoId" name="videoId" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+        <hr />
+        @ViewBag.Name
+    </form>
+</div>
